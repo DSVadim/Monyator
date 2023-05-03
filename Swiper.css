@@ -1,0 +1,57 @@
+.section1 {
+    position: absolute;
+    height: 550px;
+    width: 1294px;
+    top: 108px;
+    left: 73px;
+    background: #DCE5E2;
+    border-radius: 32px;
+}
+.right{
+    position: absolute;
+    top: 265px;
+    left: 1263px;
+}
+.left{
+    position: absolute;
+    top: 265px;
+    left: 19px;
+}
+.mySwiper {
+    position: absolute;
+    height: 550px;
+    width: 100%;
+    top: 108px;
+    left:0%;
+    right: 0%;
+    background: #DCE5E2;
+    border-radius: 32px;
+}
+.Card1 {
+    position: absolute;
+    margin-left: 5%;
+    margin-top:5%;
+
+    border-radius: 7px;
+    padding: 1% 0.5%;
+    transition: transform 0.3s ease-in-out;
+
+    background-color: black;
+    width: 15.8em;
+    height: 21.5em;
+    scroll-snap-align: start;
+}
+.Card12 {
+    position: absolute;
+    margin-left: 5%;
+    margin-top:5%;
+
+    border-radius: 7px;
+    padding: 1% 0.5%;
+    transition: transform 0.3s ease-in-out;
+
+    background-color: black;
+    width: 15.8em;
+    height: 21.5em;
+    scroll-snap-align: start;
+}
