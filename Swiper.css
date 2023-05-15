@@ -1,6 +1,6 @@
 .section1 {
     position: absolute;
-    height: 550px;
+    height: 250px;
     width: 1294px;
     top: 108px;
     left: 73px;
@@ -19,18 +19,18 @@
 }
 .mySwiper {
     position: absolute;
-    height: 550px;
+    height: 420px;
     width: 100%;
-    top: 108px;
+    margin-top: -2%;
     left:0%;
     right: 0%;
-    background: #DCE5E2;
+    background: rgba(220, 229, 226, 0);
     border-radius: 32px;
 }
 .Card1 {
     position: absolute;
     margin-left: 5%;
-    margin-top:5%;
+    margin-top:1%;
 
     border-radius: 7px;
     padding: 1% 0.5%;
@@ -44,7 +44,7 @@
 .Card12 {
     position: absolute;
     margin-left: 5%;
-    margin-top:5%;
+    margin-top:1%;
 
     border-radius: 7px;
     padding: 1% 0.5%;

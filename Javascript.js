@@ -1,3 +1,8 @@
 
-new Swiper('.Card1')
-new Swiper('.Card12')
+new Swiper('.Card1',{
+    loop: true
+});
+
+new Swiper('.Card12',{
+    loop: true
+});
